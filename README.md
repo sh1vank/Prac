@@ -1,4 +1,4 @@
-# CodeForces A2oj Div Solution
+# CodeForces A2oj Div A Solution
 Questions:
   Pashmak and Garden	
   Dragons		
